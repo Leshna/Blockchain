@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Leshna.final_year_project"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Enterprise Android App</name>
+
+  <description>
+      Final year project blockchain with enterprise android app.
+  </description>
+
+  <author href="https://build.phonegap.com" email="lesha_mavasee@outlook.com">
+      Leshna
+  </author>
+
+</widget>
